@@ -5,6 +5,7 @@
     "tags": "tags",
     "←前提タスク": "multitext",
     "後続タスク→": "multitext",
-    "完了": "checkbox"
+    "完了": "checkbox",
+    "担当者": "multitext"
   }
 }
