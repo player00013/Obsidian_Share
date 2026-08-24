@@ -8,7 +8,8 @@
     "完了": "date",
     "担当者": "multitext",
     "参加者": "multitext",
-    "リンク": "multitext",
-    "日時": "date"
+    "リンク": "text",
+    "日時": "date",
+    "最終更新日": "date"
   }
 }

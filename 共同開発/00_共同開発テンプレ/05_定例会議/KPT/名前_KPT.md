@@ -1,15 +1,12 @@
 ---
-tags:
-担当者:
+最終更新日:
 ---
 > [!todo]　Keep_やる事
 > - [ ] 
 
-> [!success]　やった事
+> [!success]　Try_挑戦する事
 > - 
 
-> [!abstract]　Problem_問題点
-> 自由記入
->> [!info]　資料
+> [!bug]　Problem_問題点
+>> [!question]　1.問題名
 >> -  
-
