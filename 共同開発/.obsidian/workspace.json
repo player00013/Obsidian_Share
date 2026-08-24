@@ -11,24 +11,21 @@
             "id": "142275e698594ed0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "00_共同開発テンプレ/07_ライブラリ/テンプレ/仕様テンプレ.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "00_共同開発テンプレ/04_仕様書/仕様書ボード.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
                 }
               },
-              "icon": "lucide-file",
-              "title": "仕様テンプレ"
+              "icon": "lucide-trello",
+              "title": "仕様書ボード"
             }
           }
         ]
@@ -106,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_共同開発テンプレ/07_ライブラリ/テンプレ/仕様テンプレ.md",
+                "file": "00_共同開発テンプレ/04_仕様書/仕様書ボード.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,10 +221,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "142275e698594ed0",
+  "active": "6d70e8dd6fef628a",
   "lastOpenFiles": [
-    "00_共同開発テンプレ/07_ライブラリ/テンプレ/汎用資料.md",
     "00_共同開発テンプレ/07_ライブラリ/テンプレ/仕様テンプレ.md",
+    "00_共同開発テンプレ/04_仕様書/仕様書ボード.md",
+    "00_共同開発テンプレ/07_ライブラリ/テンプレ/汎用資料.md",
     "00_共同開発テンプレ/04_仕様書/A_プロト版/Ver.1.0_プロト版仕様書.md",
     "00_共同開発テンプレ/05_定例会議/KPT/名前_KPT.md",
     "00_共同開発テンプレ/05_定例会議/議事録/議事録_日時.md",
@@ -262,7 +260,6 @@
     "00_DeskWars/02_タスク管理/タスクボード.md",
     "00_DeskWars/02_タスク管理/タスクチケット/ステージ1レベルデザイン.md",
     "00_DeskWars/02_タスク管理/タスクチケット/Test.md",
-    "00_DeskWars/07_ライブラリ/テンプレ/タスクチケットテンプレート.md",
     "00_SBG/06_発想広場/キャンバス/無題のファイル.canvas",
     "00_SBG/06_発想広場/参考/参考詳細",
     "00_SBG/06_発想広場/キャンバス/無題のファイル 1.canvas",
