@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_共同開発テンプレ/07_ライブラリ/テンプレ/名前_KPT 1.md",
-                "mode": "source",
+                "file": "00_共同開発テンプレ/07_ライブラリ/テンプレ/KPTテンプレ.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "名前_KPT 1"
+              "title": "KPTテンプレ"
             }
           }
         ]
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_共同開発テンプレ/07_ライブラリ/テンプレ/名前_KPT 1.md",
+                "file": "00_共同開発テンプレ/07_ライブラリ/テンプレ/KPTテンプレ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,10 +224,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6d70e8dd6fef628a",
+  "active": "142275e698594ed0",
   "lastOpenFiles": [
     "00_共同開発テンプレ/05_定例会議/KPT/名前_KPT.md",
-    "00_共同開発テンプレ/07_ライブラリ/テンプレ/名前_KPT 1.md",
+    "00_共同開発テンプレ/07_ライブラリ/テンプレ/KPTテンプレ.md",
     "00_共同開発テンプレ/07_ライブラリ/デイリーフォルダ",
     "00_共同開発テンプレ/01_はじめに/プラグイン一覧.md",
     "00_共同開発テンプレ/05_定例会議/議事録/議事録.md",

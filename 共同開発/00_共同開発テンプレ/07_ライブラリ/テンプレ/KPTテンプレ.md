@@ -5,7 +5,7 @@ tags:
 > [!todo]　Keep_やる事
 > - [ ] 
 
-> [!success]　やった事
+> [!success]　Try_挑戦する事
 > - 
 
 > [!abstract]　Problem_問題点
