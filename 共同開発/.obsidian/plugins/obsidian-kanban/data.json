@@ -40,5 +40,6 @@
       "shouldHideLabel": true,
       "containsMarkdown": false
     }
-  ]
+  ],
+  "move-task-metadata": true
 }
