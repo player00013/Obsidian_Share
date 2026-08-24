@@ -13,18 +13,16 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "00_共同開発テンプレ/03_質疑応答/質問ボード.md",
+                "file": "00_共同開発テンプレ/05_定例会議/議事録ボード.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
-                    false,
-                    false,
                     false
                   ]
                 }
               },
               "icon": "lucide-trello",
-              "title": "質問ボード"
+              "title": "議事録ボード"
             }
           }
         ]
@@ -102,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_共同開発テンプレ/03_質疑応答/質問ボード.md",
+                "file": "00_共同開発テンプレ/05_定例会議/議事録ボード.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,14 +218,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "142275e698594ed0",
+  "active": "6d70e8dd6fef628a",
   "lastOpenFiles": [
+    "00_共同開発テンプレ/03_質疑応答/質問ボード.md",
+    "00_共同開発テンプレ/05_定例会議/議事録ボード.md",
     "00_共同開発テンプレ/02_タスク管理/タスクボード.md",
     "00_共同開発テンプレ/01_はじめに/★クイックアクセス.canvas",
     "00_共同開発テンプレ/01_はじめに/プラグイン一覧.md",
     "00_共同開発テンプレ/03_質疑応答/質問/質問例：開発エンジンについて.md",
     "00_共同開発テンプレ/無題のフォルダ",
-    "00_共同開発テンプレ/03_質疑応答/質問ボード.md",
     "00_共同開発テンプレ/04_仕様書/仕様書ボード.md",
     "00_共同開発テンプレ/07_ライブラリ/テンプレ/仕様テンプレ.md",
     "00_共同開発テンプレ/07_ライブラリ/テンプレ/汎用資料.md",
