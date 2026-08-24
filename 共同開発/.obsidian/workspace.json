@@ -11,17 +11,24 @@
             "id": "142275e698594ed0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "00_共同開発テンプレ/01_はじめに/クイックアクセス.canvas",
-                "viewState": {
-                  "x": -70.7596582209433,
-                  "y": 190.69549812107613,
-                  "zoom": -0.04890960048094639
+                "file": "00_共同開発テンプレ/01_はじめに/プラグイン一覧.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "クイックアクセス"
+              "icon": "lucide-file",
+              "title": "プラグイン一覧"
             }
           }
         ]
@@ -219,8 +226,8 @@
   },
   "active": "142275e698594ed0",
   "lastOpenFiles": [
-    "00_共同開発テンプレ/06_発想広場/ホワイトボード/ホワイトボード_無題.canvas",
     "00_共同開発テンプレ/01_はじめに/クイックアクセス.canvas",
+    "00_共同開発テンプレ/06_発想広場/ホワイトボード/ホワイトボード_無題.canvas",
     "00_共同開発テンプレ/03_質疑応答/質問ボード.md",
     "00_共同開発テンプレ/07_ライブラリ/データベース.base",
     "00_共同開発テンプレ/07_ライブラリ/画像素材/画像ボード.canvas",
