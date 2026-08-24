@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "3f0a161e4161e17e",
+    "type": "split",
+    "children": [
+      {
+        "id": "988ac05e29303fef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "142275e698594ed0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "00_共同開発テンプレ/07_ライブラリ/Pasted image 20260731151158.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260731151158"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "314ec8f8d48055a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4495658d12be400",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d70e8dd6fef628a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "8f0a93132a4a7514",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "657820c632ce2887",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fcdae028e67f91c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d61c15d9b66ed2fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44832302dd3c65f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.15.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "sample_Ver.0.15へのバックリンク"
+            }
+          },
+          {
+            "id": "f73cac797d1d78b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00_共同開発テンプレ/07_ライブラリ/画像素材/Pasted image 20260717222833.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Pasted image 20260717222833からのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "e1b5a030146e768f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "c1c13f07a3327573",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "9aad06014f91961b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00_共同開発テンプレ/07_ライブラリ/画像素材/Pasted image 20260717222833.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Pasted image 20260717222833のアウトライン"
+            }
+          },
+          {
+            "id": "ab1d3603c1d61f08",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "00_共同開発テンプレ/07_ライブラリ/画像素材/Pasted image 20260717222833.png"
+              },
+              "icon": "lucide-file-signature",
+              "title": "脚注"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:パブリッシュによる変更の公開…": false,
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:新規ベースを作成": false,
+      "markdown-importer:Markdownインポーターを開く": false,
+      "audio-recorder:録音の開始/停止": false,
+      "zk-prefixer:新規ユニークノートの作成": false,
+      "workspaces:ワークスペースレイアウトを管理": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "142275e698594ed0",
+  "lastOpenFiles": [
+    "00_共同開発テンプレ/07_ライブラリ/Pasted image 20260801143148.png",
+    "00_共同開発テンプレ/07_ライブラリ/Pasted image 20260731151158.png",
+    "00_SBG/07_ライブラリ/画像素材/画像ボード.md",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260717222833.png",
+    "無題のファイル.base",
+    "00_DeskWars/02_タスク管理/タスクリスト.md",
+    "00_DeskWars/02_タスク管理/タスクボード.md",
+    "00_DeskWars/02_タスク管理/タスクチケット/ステージ1レベルデザイン.md",
+    "00_DeskWars/02_タスク管理/タスクチケット/Test.md",
+    "00_DeskWars/07_ライブラリ/テンプレ/タスクチケットテンプレート.md",
+    "00_DeskWars/02_タスク管理/タスクチケット/プロパティテスト.md",
+    "00_SBG/01_はじめに/チュートリアル一覧/02_タスク管理チュートリアル.md",
+    "00_SBG/07_ライブラリ/データ検索/DataView.md",
+    "00_SBG/04_仕様書/D_マスター版/Ver.1.0_マスター版仕様書.md",
+    "00_SBG/04_仕様書/B_アルファ版/Ver.1.0_アルファ版仕様書.md",
+    "00_SBG/04_仕様書/C_ベータ版/Ver.1.0_ベータ版仕様書.md",
+    "00_SBG/05_定例会議/議事録/議事録.md",
+    "00_SBG/04_仕様書/A_プロト版/Ver.1.0_プロト版仕様書.md",
+    "00_SBG/05_定例会議/KPT/名前_KPT.md",
+    "00_SBG/03_質疑応答/質問/質問例：開発エンジンについて.md",
+    "00_SBG/06_発想広場/雑談/雑談メモ.md",
+    "00_SBG/06_発想広場/キャンバス/無題のファイル.canvas",
+    "00_SBG/06_発想広場/参考/参考詳細",
+    "00_SBG/06_発想広場/参考/参考ボード.md",
+    "00_SBG/01_はじめに/チュートリアル一覧/05_定例会議チュートリアル.md",
+    "00_SBG/06_発想広場/キャンバス/無題のファイル 1.canvas",
+    "00_SBG/06_発想広場/キャンバス/ホワイトボード_無題.canvas",
+    "00_SBG/02_タスク管理/タスクチケット/プロパティテスト.md",
+    "00_SBG/01_はじめに/チュートリアル一覧/07_ライブラリチュートリアル.md",
+    "00_SBG/01_はじめに/チュートリアル一覧/06_発想広場チュートリアル.md",
+    "00_SBG/01_はじめに/チュートリアル一覧/04_仕様書チュートリアル.md",
+    "00_SBG/01_はじめに/チュートリアル一覧/03_質疑応答チュートリアル.md",
+    "00_SBG/07_ライブラリ/画像素材",
+    "00_SBG/07_ライブラリ/外部資料",
+    "00_SBG/07_ライブラリ/データ検索",
+    "00_SBG/07_ライブラリ/テンプレ",
+    "00_SBG/05_定例会議/議事録",
+    "00_SBG/04_仕様書/D_マスター版",
+    "00_SBG/04_仕様書/C_ベータ版",
+    "00_SBG/05_定例会議/KPT",
+    "00_SBG/03_質疑応答/質問ボード.md",
+    "00_SBG/01_はじめに/★クイックアクセス.canvas",
+    "00_DeskWars/01_はじめに/★クイックアクセス.canvas",
+    "00_DeskWars/07_ライブラリ/画像素材/Pasted image 20260717222833.png",
+    "00_DeskWars/06_発想広場/キャンバス/無題のファイル.canvas",
+    "00_DeskWars/06_発想広場/キャンバス/無題のファイル 1.canvas",
+    "00_DeskWars/06_発想広場/キャンバス/ホワイトボード_無題.canvas",
+    "00_DeskWars/07_ライブラリ/画像素材/Pasted image 20260717222833.png",
+    "00_DeskWars/06_発想広場/キャンバス/無題のファイル.canvas",
+    "00_DeskWars/06_発想広場/キャンバス/無題のファイル 1.canvas",
+    "00_共同開発テンプレ/07_ライブラリ/画像素材/Pasted image 20260717222833.png"
+  ]
+}
