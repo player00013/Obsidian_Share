@@ -5,9 +5,10 @@
     "tags": "tags",
     "←前提タスク": "multitext",
     "後続タスク→": "multitext",
-    "完了": "checkbox",
+    "完了": "date",
     "担当者": "multitext",
     "参加者": "multitext",
-    "リンク": "multitext"
+    "リンク": "multitext",
+    "日時": "date"
   }
 }
