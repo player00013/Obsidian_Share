@@ -13,11 +13,10 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "00_共同開発テンプレ/02_タスク管理/タスクボード.md",
+                "file": "00_共同開発テンプレ/03_質疑応答/質問ボード.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
-                    false,
                     false,
                     false,
                     false
@@ -25,7 +24,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "タスクボード"
+              "title": "質問ボード"
             }
           }
         ]
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_共同開発テンプレ/02_タスク管理/タスクボード.md",
+                "file": "00_共同開発テンプレ/03_質疑応答/質問ボード.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,9 +222,9 @@
   },
   "active": "142275e698594ed0",
   "lastOpenFiles": [
+    "00_共同開発テンプレ/02_タスク管理/タスクボード.md",
     "00_共同開発テンプレ/01_はじめに/★クイックアクセス.canvas",
     "00_共同開発テンプレ/01_はじめに/プラグイン一覧.md",
-    "00_共同開発テンプレ/02_タスク管理/タスクボード.md",
     "00_共同開発テンプレ/03_質疑応答/質問/質問例：開発エンジンについて.md",
     "00_共同開発テンプレ/無題のフォルダ",
     "00_共同開発テンプレ/03_質疑応答/質問ボード.md",
