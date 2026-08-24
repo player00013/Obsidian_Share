@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"03a3a3db99c26b23","type":"group","ratio":1.7777777777777777,"x":-560,"y":-80,"width":1200,"height":580,"label":"クイックアクセス"},
+		{"id":"87f42ba7a8eb2669","x":-500,"y":0,"width":300,"height":100,"color":"5","type":"group","label":"タスク管理"},
+		{"id":"93a8d4c1e0f93225","type":"group","x":-500,"y":160,"width":300,"height":100,"color":"5","label":"質疑応答"},
+		{"id":"93793f3937ee3112","type":"group","x":-500,"y":340,"width":300,"height":100,"color":"5","label":"仕様書"},
+		{"id":"a5147bb7de0a14c5","type":"text","text":"[KPTボード](00_共同開発テンプレ/05_定例会議/KPTボード.md)","x":-80,"y":0,"width":250,"height":60},
+		{"id":"b24e5c86cb52f096","type":"text","text":"[議事録ボード](00_共同開発テンプレ/05_定例会議/議事録ボード.md)","x":-80,"y":120,"width":250,"height":60},
+		{"id":"dbd3f56cdafbfbf6","type":"text","text":"![](00_共同開発テンプレ/06_発想広場/ホワイトボード/ホワイトボード_無題.canvas)","x":320,"y":0,"width":250,"height":60},
+		{"id":"84cbd44bcf0157ba","type":"text","text":"[雑談ボード](00_共同開発テンプレ/06_発想広場/雑談/雑談ボード.md)","x":-80,"y":240,"width":250,"height":60},
+		{"id":"3689b55a5d06f9f2","type":"text","text":"[参考ボード](00_共同開発テンプレ/06_発想広場/参考/参考ボード.md)","x":-80,"y":360,"width":250,"height":60},
+		{"id":"49dea7631cb86be0","type":"text","text":"![](00_共同開発テンプレ/07_ライブラリ/画像素材/画像ボード.canvas)","x":320,"y":120,"width":250,"height":60},
+		{"id":"93cd642a4c6acc96","type":"text","text":"[データベース](00_共同開発テンプレ/07_ライブラリ/データベース.base)","x":320,"y":240,"width":250,"height":60},
+		{
+			"id":"62f8a8a269d8c038",
+			"type":"text",
+			"text":"[タスクボード](00_共同開発テンプレ/02_タスク管理/タスクボード.md)",
+			"styleAttributes":{},
+			"x":-480,
+			"y":20,
+			"width":250,
+			"height":60
+		},
+		{"id":"bb61e639ac079060","type":"text","text":"[質問ボード](00_共同開発テンプレ/03_質疑応答/質問ボード.md)","x":-480,"y":180,"width":250,"height":60},
+		{"id":"bbfd15fd15a34596","type":"text","text":"[仕様書ボード](00_共同開発テンプレ/04_仕様書/仕様書ボード.md)","x":-480,"y":360,"width":250,"height":60}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{},
+		"startNode":"03a3a3db99c26b23"
+	}
+}
