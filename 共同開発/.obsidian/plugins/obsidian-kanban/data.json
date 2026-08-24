@@ -1,0 +1,44 @@
+{
+  "move-tags": true,
+  "move-dates": true,
+  "show-relative-date": true,
+  "date-colors": [
+    {
+      "distance": 1,
+      "unit": "days",
+      "direction": "after",
+      "isToday": true,
+      "color": "rgba(150, 77, 233, 1)"
+    },
+    {
+      "distance": 1,
+      "unit": "days",
+      "direction": "after",
+      "isAfter": true,
+      "color": "rgba(47, 229, 218, 1)"
+    },
+    {
+      "distance": 1,
+      "unit": "days",
+      "direction": "after",
+      "isBefore": true,
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgba(232, 38, 38, 1)"
+    },
+    {
+      "isToday": false,
+      "distance": 30,
+      "unit": "days",
+      "direction": "before",
+      "color": "rgba(225, 228, 57, 1)"
+    }
+  ],
+  "metadata-keys": [
+    {
+      "metadataKey": "tags",
+      "label": "",
+      "shouldHideLabel": true,
+      "containsMarkdown": false
+    }
+  ]
+}
