@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"3677bb9fc5fa6488","x":34,"y":47,"width":250,"height":60,"type":"text","text":""}
+		{"id":"3677bb9fc5fa6488","type":"text","text":"ここはホワイトボードです。\n視覚的に議論しましょう。","x":34,"y":47,"width":250,"height":60}
 	],
 	"edges":[],
 	"metadata":{
