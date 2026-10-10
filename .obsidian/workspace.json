@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "c91d1f386b5b3691",
+    "type": "split",
+    "children": [
+      {
+        "id": "39ddae4c9dd19481",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b3fc5937c2db605",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "共同開発/00_共同開発テンプレ/02_タスク管理/タスクボード.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "タスクボード"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dae91972d7c2a4db",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d09d3765096d54e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97a45fa4b5768b51",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "94a0153eb34fea0d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "d04746d8f3a19b37",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b058375ed73a560d",
+    "type": "split",
+    "children": [
+      {
+        "id": "378d848d067f4b8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91499b05e830a561",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "共同開発/00_共同開発テンプレ/01_はじめに/プラグイン一覧.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "バックリンク"
+            }
+          },
+          {
+            "id": "1b264ea3f0b93abb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "共同開発/00_共同開発テンプレ/01_はじめに/プラグイン一覧.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "アウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "66cb9c88df06c540",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "6bf1e563f216192f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "ba438eb7f98b754c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "共同開発/00_共同開発テンプレ/02_タスク管理/タスクボード.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "アウトライン"
+            }
+          },
+          {
+            "id": "7a68deec11540b17",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:新規ベースを作成": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "97a45fa4b5768b51",
+  "lastOpenFiles": [
+    "共同開発/00_共同開発テンプレ/04_仕様書/無題のフォルダ",
+    "共同開発/00_共同開発テンプレ/03_質疑応答/質問チケット",
+    "共同開発/00_共同開発テンプレ/02_タスク管理/タスクチケット",
+    "共同開発/00_共同開発テンプレ/03_質疑応答/質問ボード.md",
+    "共同開発/00_共同開発テンプレ/02_タスク管理/タスクボード.md",
+    "共同開発/00_共同開発テンプレ/06_発想広場/ホワイトボード/ホワイトボード_無題.canvas",
+    "共同開発/00_共同開発テンプレ/01_はじめに/クイックアクセス.canvas",
+    "共同開発/00_共同開発テンプレ/01_はじめに/プラグイン一覧.md",
+    "共同開発/00_共同開発テンプレ/07_ライブラリ/画像素材/画像ボード.canvas",
+    "Untitled Kanban.md",
+    "test/数学.md",
+    "test/テスト.md",
+    "無題のファイル.md",
+    "test",
+    "共同開発/00_共同開発テンプレ/04_仕様書/仕様書ボード.md",
+    "共同開発/00_共同開発テンプレ/06_発想広場/雑談/雑談ボード.md",
+    "共同開発/00_共同開発テンプレ/07_ライブラリ/テンプレ/汎用テンプレ.md",
+    "共同開発/00_共同開発テンプレ/07_ライブラリ/テンプレ/質問テンプレ.md",
+    "共同開発/00_共同開発テンプレ/07_ライブラリ/テンプレ/仕様テンプレ.md",
+    "共同開発/00_共同開発テンプレ/07_ライブラリ/テンプレ/デイリーテンプレート.md",
+    "共同開発/00_共同開発テンプレ/07_ライブラリ/テンプレ/タスクチケットテンプレート.md",
+    "共同開発/00_共同開発テンプレ/07_ライブラリ/テンプレ/KPTテンプレ.md",
+    "共同開発/00_共同開発テンプレ/05_定例会議/議事録ボード.md",
+    "共同開発/00_共同開発テンプレ/05_定例会議/KPTボード.md"
+  ]
+}

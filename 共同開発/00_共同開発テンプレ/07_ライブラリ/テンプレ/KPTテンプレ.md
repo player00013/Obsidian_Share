@@ -1,7 +1,7 @@
 ---
 最終更新日:
 ---
-> [!todo]　Keep_やる事
+> [!todo]　Keep_やった事
 > - [ ] 
 
 > [!success]　Try_挑戦する事
