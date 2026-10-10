@@ -7,7 +7,7 @@
 		{"id":"87f42ba7a8eb2669","type":"group","x":-500,"y":-15,"width":300,"height":100,"color":"#e56666","label":"タスク管理"},
 		{"id":"93a8d4c1e0f93225","type":"group","x":-500,"y":165,"width":300,"height":100,"color":"#b752a1","label":"質疑応答"},
 		{"id":"93793f3937ee3112","type":"group","x":-500,"y":345,"width":300,"height":100,"color":"#723ec1","label":"仕様書"},
-		{"id":"a5147bb7de0a14c5","type":"text","text":"[KPTボード](00_共同開発テンプレ/05_定例会議/KPTボード.md)","x":-475,"y":555,"width":250,"height":60},
+		{"id":"a5147bb7de0a14c5","type":"text","text":"[週報ボード](週報ボード.md)","x":-475,"y":555,"width":250,"height":60},
 		{
 			"id":"62f8a8a269d8c038",
 			"type":"text",

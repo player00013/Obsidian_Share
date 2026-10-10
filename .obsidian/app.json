@@ -1,3 +1,7 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "共同開発/00_共同開発テンプレ/07_ライブラリ",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "共同開発/00_共同開発テンプレ/07_ライブラリ"
 }
