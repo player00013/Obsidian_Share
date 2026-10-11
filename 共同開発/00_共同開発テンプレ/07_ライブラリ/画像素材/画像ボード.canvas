@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"28230feacd4e0f0c","x":111,"y":121,"width":250,"height":60,"type":"text","text":""},
 		{"id":"4c11f536ec2e4672","type":"text","text":"ここは画像ボードです。\nイメージを視覚的に共有出来ます。","x":-16,"y":47,"width":276,"height":60}
 	],
 	"edges":[]
